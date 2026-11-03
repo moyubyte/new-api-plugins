@@ -1,12 +1,13 @@
 module github.com/QuantumNous/new-api-plugins/tools/pluginindex
 
-go 1.26.6
+go 1.26.10
 
 require github.com/QuantumNous/new-api v0.0.0
 
 require (
 	github.com/Azure/go-ntlmssp v0.1.1 // indirect
 	github.com/Calcium-Ion/moejs v0.1.0-alpha.7 // indirect
+	github.com/MoeForge/moego v0.1.0-alpha.1 // indirect
 	github.com/QuantumNous/new-api/relaykit v0.0.0 // indirect
 	github.com/abema/go-mp4 v1.4.1 // indirect
 	github.com/boombuler/barcode v1.1.0 // indirect
@@ -43,7 +44,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.18.3 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
@@ -60,10 +61,6 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/stretchr/objx v0.5.3 // indirect
 	github.com/tcolgate/mp3 v0.0.0-20170426193717-e79c5a46d300 // indirect
-	github.com/tidwall/gjson v1.19.0 // indirect
-	github.com/tidwall/match v1.1.1 // indirect
-	github.com/tidwall/pretty v1.2.1 // indirect
-	github.com/tidwall/sjson v1.2.5 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
